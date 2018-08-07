@@ -1,4 +1,4 @@
-# PythonWrapper
+# Python_wrapper
 
 Python C++ very simple wrapper, easy to use, just clone it and use its structure.
 
