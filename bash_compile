@@ -1,0 +1,2 @@
+g++ -c -fPIC test.cpp -o out_test.o -Wno-write-strings
+g++ -shared -Wl,-soname,libtest.so -o libtest.so  out_test.o
